@@ -1,0 +1,25 @@
+{
+  "events": [
+    {
+      "title": "Stand-up Comedy",
+      "body": "Stand-up comedy show at The Habitat by Mr. Samay Raina.",
+      "artist": "Samay Raina",
+      "location": "Khar West, Mumbai",
+      "id": 1
+    },
+    {
+      "title": "Music Concert",
+      "body": "Music concert at The Jio World Drive Center performed by Shaan and Sonu Nigam.",
+      "artist": "Shaan and Sonu Nigam",
+      "location": "BKC, Mumbai",
+      "id": 2
+    },
+    {
+      "title": "Art Exhibition",
+      "body": "Contemporary art space workshop at The Bombay Art Society.",
+      "artist": "Bombay Art Society",
+      "location": "Bandra Reclamation, Mumbai",
+      "id": 3
+    }
+  ]
+}
